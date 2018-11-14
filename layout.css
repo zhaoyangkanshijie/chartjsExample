@@ -1,0 +1,12 @@
+#layout{
+    width: 100%;
+    list-style-type: none;
+}
+
+#layout li{
+    height: 300px;
+    width: 300px;
+    display: block;
+    list-style-type: none;
+    float: left;
+}
